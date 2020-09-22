@@ -1,0 +1,7 @@
+
+1)AT+DEFAULT
+Choose baudrate 9600 and connect.
+2)AT+BAUD=115200
+Change baudrate to 115200 and connect
+3)AT+ROLE=S
+4)AT+ NAME=(name)
